@@ -1,0 +1,92 @@
+﻿Dataset Link,API endpoint,Portal Type,City,State,Dataset Type
+https://opendata-townofchapelhill.hub.arcgis.com/datasets/police-employee-demographics,https://opendata.arcgis.com/datasets/1922a028721540c5a2929b8a5828e982_0.csv,ArcGIS,Chapel Hill,NC,Force Demographics
+https://data-avl.opendata.arcgis.com/datasets/38bdfa06548a45bc9c89c7dddcfc5f31_0,https://opendata.arcgis.com/datasets/38bdfa06548a45bc9c89c7dddcfc5f31_0.csv,ArcGIS,Asheville,NC,Use of Force
+https://data-avl.opendata.arcgis.com/datasets/cfae11db231548cb952f273d07f95049?geometry=-83.576%2C35.422%2C-81.490%2C35.813&layer=0,https://opendata.arcgis.com/datasets/cfae11db231548cb952f273d07f95049_0.csv,ArcGIS,Asheville,NC,Traffic stops
+https://data.austintexas.gov/Public-Safety/Officer-Involved-Shootings-2008-17-Officers/8mvp-v9jz,https://data.austintexas.gov/resource/u2k2-n8ez.csv,Socrata,Austin,TX,Use of Force
+https://data.detroitmi.gov/datasets/dpd-citizen-complaints,https://opendata.arcgis.com/datasets/39076d87eb6d49ce8424873e3acd0d4b_0.csv,ArcGIS,Detroit,MI,Officer Complaints
+https://data.cincinnati-oh.gov/Safety/PDI-Police-Data-Initiative-Pedestrian-Stops/jx3x-rh6i,https://data.cincinnati-oh.gov/resource/jx3x-rh6i.csv,Socrata,Cincinnati,OH,Stop and Frisk
+https://data.cincinnati-oh.gov/Safety/PDI-Police-Data-Initiative-Use-of-Force/8us8-wi2w,https://data.cincinnati-oh.gov/resource/8us8-wi2w.csv,Socrata,Cincinnati,OH,Use of Force
+https://data.cincinnati-oh.gov/Safety/PDI-Police-Data-Initiative-Traffic-Stops-All-Subje/ktgf-4sjh,https://data.cincinnati-oh.gov/resource/ktgf-4sjh.csv,Socrata,Cincinnati,OH,Traffic stops
+https://open-data.bouldercolorado.gov/datasets/f25944b7a60742ad9df80acfbdc41d7a_0,https://opendata.arcgis.com/datasets/f25944b7a60742ad9df80acfbdc41d7a_0.csv,ArcGIS,Boulder,CO,Force Demographics
+https://open-data.bouldercolorado.gov/datasets/b485681308704f8c8d6dad3206e5a43d_0,https://opendata.arcgis.com/datasets/b485681308704f8c8d6dad3206e5a43d_0.csv,ArcGIS,Boulder,CO,Stop and Frisk
+https://open-data.bouldercolorado.gov/datasets/1f850e90d27a4bf58d5b66405d59045f_0,https://opendata.arcgis.com/datasets/1f850e90d27a4bf58d5b66405d59045f_0.csv,ArcGIS,Boulder,CO,Stop and Frisk
+https://www.portlandoregon.gov/police/71673,,N/A,Portland,OR,Stop and Frisk
+https://www.portlandoregon.gov/police/71673,,N/A,Portland,OR,Use of Force
+https://www.opendataphilly.org/dataset/vehicle-pedestrian-investigations, https://cityofphiladelphia.github.io/carto-api-explorer/#car_ped_stops,Carto,Philadelphia,PA,Stop and Frisk
+https://www.opendataphilly.org/dataset/vehicle-pedestrian-investigations, https://cityofphiladelphia.github.io/carto-api-explorer/#car_ped_stops,Carto,Philadelphia,PA,Traffic stops
+https://www.opendataphilly.org/dataset/police-complaints,https://cityofphiladelphia.github.io/carto-api-explorer/#ppd_complaints,Carto,Philadelphia,PA,Officer Complaints
+https://www.opendataphilly.org/dataset/shooting-victims/resource/af2a6d15-234e-44de-83c7-dd23668ee496,https://cityofphiladelphia.github.io/carto-api-explorer/#shootings,Carto,Philadelphia,PA,Use of Force
+https://data.greensboro-nc.gov/datasets/566417dafe0640f79281f348b3f141ef/data?showData=true,https://opendata.arcgis.com/datasets/566417dafe0640f79281f348b3f141ef_20.csv,ArcGIS,Greensboro,NC,Use of Force
+https://data.greensboro-nc.gov/datasets/7b7a01af10734ab1b6a34888be003696?showData=true,https://opendata.arcgis.com/datasets/7b7a01af10734ab1b6a34888be003696_21.csv,ArcGIS,Greensboro,NC,Use of Force
+https://data.greensboro-nc.gov/datasets/1e94326de7f54464b30144442112054a/geoservice?showData=true,https://opendata.arcgis.com/datasets/1e94326de7f54464b30144442112054a_16.csv,ArcGIS,Greensboro,NC,Traffic stops
+https://opendata.lincoln.ne.gov/datasets/lpd-use-of-control-2019-raw-data,https://opendata.arcgis.com/datasets/98c004615dba46c5931f12ca4b9d0c57_0.csv,ArcGIS,Lincoln,NE,Use of Force
+https://opendata.lincoln.ne.gov/datasets/lpd-traffic-stops-2019,https://opendata.arcgis.com/datasets/f4bf4161d33744aabe674b438b4e5566_0.csv,ArcGIS,Lincoln,NE,Traffic stops
+https://data.sandiego.gov/datasets/police-ripa-stops/,https://seshat.datasd.org/pd/ripa_stops_datasd.csv,Socrata,San Diego,CA,Stop and Frisk
+https://data.sandiego.gov/datasets/police-vehicle-stops/,https://seshat.datasd.org/pd/vehicle_stops_final_datasd_v1.csv,Socrata,San Diego,CA,Traffic stops
+https://data.nola.gov/Public-Safety-and-Preparedness/NOPD-Use-of-Force-Incidents/9mnw-mbde,https://data.nola.gov/resource/9mnw-mbde.csv,Socrata,New Orleans,LA,Use of Force
+https://data.cityofevanston.org/Police/Traffic-Stops-in-Evanston/bbbk-a8vu,https://data.cityofevanston.org/resource/bbbk-a8vu.csv,Socrata,Evanston,IL,Traffic stops
+https://data.cityofevanston.org/Police/Evanston-Police-Department-Use-of-Force/62x8-q9xh,https://data.cityofevanston.org/resource/62x8-q9xh.csv,Socrata,Evanston,IL,Use of Force
+https://data.mesaaz.gov/Police/Police-Employee-Staffing-Sworn-and-Civilian/bdtv-tbrq,https://data.mesaaz.gov/resource/bdtv-tbrq.csv,Socrata,Mesa,AZ,Force Demographics
+https://data.louisvilleky.gov/dataset/lmpd-employee-characteristics,,N/A,Louisville,KY,Force Demographics
+https://data.louisvilleky.gov/dataset/lmpd-stops-data,,N/A,Louisville,KY,Traffic stops
+https://data.louisvilleky.gov/dataset/officer-involved-shooting-and-statistical-analysis,,N/A,Louisville,KY,Use of Force
+https://www.dallasopendata.com/Public-Safety/Dallas-Police-Officer-Involved-Shootings/4gmt-jyx2,https://www.dallasopendata.com/resource/4gmt-jyx2.csv,Socrata,Dallas,TX,Use of Force
+https://www.dallasopendata.com/Public-Safety/Police-Response-to-Resistance-2013/6gnu-avpf,https://www.dallasopendata.com/resource/6gnu-avpf.csv,Socrata,Dallas,TX,Use of Force
+https://www.dallasopendata.com/Public-Safety/Police-2014-Response-to-Resistance/xiv3-e8g7,https://www.dallasopendata.com/resource/xiv3-e8g7.csv,Socrata,Dallas,TX,Use of Force
+https://www.dallasopendata.com/Public-Safety/Police-2015-Response-to-Resistance/594v-2cnd,https://www.dallasopendata.com/resource/594v-2cnd.csv,Socrata,Dallas,TX,Use of Force
+https://www.dallasopendata.com/Public-Safety/Police-Response-to-Resistance-2016/99fn-pvaf,https://www.dallasopendata.com/resource/99fn-pvaf.csv,Socrata,Dallas,TX,Use of Force
+https://www.dallasopendata.com/Public-Safety/Police-Response-to-Resistance-2017/tsu5-ca6k,https://www.dallasopendata.com/resource/tsu5-ca6k.csv,Socrata,Dallas,TX,Use of Force
+https://www.dallasopendata.com/Public-Safety/Police-Response-to-Resistance-2018/33un-ry4j,https://www.dallasopendata.com/resource/33un-ry4j.csv,Socrata,Dallas,TX,Use of Force
+https://www.dallasopendata.com/Public-Safety/Police-Response-to-Resistance-2019/46zb-7qgj,https://www.dallasopendata.com/resource/46zb-7qgj.csv,Socrata,Dallas,TX,Use of Force
+https://www.phoenixopendata.com/dataset/officer-involved-shooting-incidents,,N/A,Phoenix,AZ,Use of Force
+https://data.indy.gov/datasets/impd-use-of-force,https://opendata.arcgis.com/datasets/be9ec4331d0242c6994a256073be772f_16.csv,ArcGIS,Indianapolis,IN,Use of Force
+https://data.indy.gov/datasets/impd-discipline,https://opendata.arcgis.com/datasets/e19f689846e044ad884315450bb7d964_22.csv,ArcGIS,Indianapolis,IN,Officer Complaints
+https://data.charlottenc.gov/datasets/officer-traffic-stops,https://opendata.arcgis.com/datasets/67b28a8ee2d2489f93ccf386b0e2afe1_14.csv?outSR=%7B%22latestWkid%22%3A2264%2C%22wkid%22%3A102719%7D,ArcGIS,Charlotte,NC,Traffic stops
+https://data.charlottenc.gov/datasets/cmpd-employee-demographics,https://opendata.arcgis.com/datasets/7e4245a5214645559b6bea3364c7cfce_16.csv?outSR=%7B%22latestWkid%22%3A2264%2C%22wkid%22%3A102719%7D,ArcGIS,Charlotte,NC,Force Demographics
+https://data.charlottenc.gov/datasets/cmpd-officer-involved-shootings-police-officers?geometry=-81.857%2C35.015%2C-79.771%2C35.408&orderBy=YR,https://opendata.arcgis.com/datasets/a14932b0ef1f4381918962914303f1c0_13.csv?outSR=%7B%22latestWkid%22%3A2264%2C%22wkid%22%3A102719%7D,ArcGIS,Charlotte,NC,Use of Force
+https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-denver-police-officer-involved-shootings,https://www.denvergov.org/media/gis/DataCatalog/denver_police_officer_involved_shootings/csv/denver_police_officer_involved_shootings.csv,Socrata,Denver,CO,Use of Force
+https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-police-pedestrian-stops-and-vehicle-stops,https://www.denvergov.org/media/gis/DataCatalog/police_pedestrian_stops_and_vehicle_stops/csv/police_pedestrian_stops_and_vehicle_stops.csv,Socrata,Denver,CO,Stop and Frisk
+https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-police-pedestrian-stops-and-vehicle-stops,https://www.denvergov.org/media/gis/DataCatalog/police_pedestrian_stops_and_vehicle_stops/csv/police_pedestrian_stops_and_vehicle_stops.csv,Socrata,Denver,CO,Traffic stops
+https://data.cityoftacoma.org/Public-Safety/Officer-Involved-Shooting/4zem-9yq6,https://data.cityoftacoma.org/resource/4zem-9yq6.csv,Socrata,Tacoma,WA,Use of Force
+https://data.cityoftacoma.org/Public-Safety/Complaint-Allegations-with-Findings/x46s-jtje,https://data.cityoftacoma.org/Public-Safety/Complaint-Allegations-with-Findings/x46s-jtje,Socrata,Tacoma,WA,Officer Complaints
+https://www.chattadata.org/dataset/Use-of-Force-Per-Capita-by-Census-Tract/25q2-z332,https://www.chattadata.org/api/views/y5qr-gke5/rows.csv?accessType=DOWNLOAD,ArcGIS,Chattanooga,TN,Use of Force
+https://www.chattadata.org/Public-Safety/Citizen-Complaint-Dispositions/s2hi-q95d,https://www.chattadata.org/api/views/najs-wv89/rows.csv?accessType=DOWNLOAD,ArcGIS,Chattanooga,TN,Officer Complaints
+https://data.cityofchicago.org/Public-Safety/COPA-Cases-By-Involved-Officer-Dashboard/fn46-6mtw,https://data.cityofchicago.org/api/views/ufxy-tgry/rows.csv?accessType=DOWNLOAD&bom=true&query=select+*,ArcGIS,Chicago,IL,Officer Complaints
+https://datalb.longbeach.gov/datasets/7a06d90ad71e4342961b0252d7814b14_0,https://opendata.arcgis.com/datasets/7a06d90ad71e4342961b0252d7814b14_0.csv,Socrata,Long Beach,CA,Stop and Frisk
+https://datalb.longbeach.gov/datasets/9a36bd8c5c1c46468757c67a3311710a_0,https://opendata.arcgis.com/datasets/9a36bd8c5c1c46468757c67a3311710a_0.csv,Socrata,Long Beach,CA,Stop and Frisk
+https://datalb.longbeach.gov/datasets/f3542945e81d43ee96fa9b8a77582510_0,https://opendata.arcgis.com/datasets/f3542945e81d43ee96fa9b8a77582510_0.gdb,Socrata,Long Beach,CA,Stop and Frisk
+https://datalb.longbeach.gov/datasets/3d57257946ab46908440f0daa134043c_0,https://opendata.arcgis.com/datasets/3d57257946ab46908440f0daa134043c_0.csv,Socrata,Long Beach,CA,Stop and Frisk
+https://data.bloomington.in.gov/dataset/bloomington-police-department-employee-demographics,Different links from years,Socrata,Bloomington,IN,Force Demographics
+https://data.bloomington.in.gov/dataset/citizen-complaints,Different links from years,Socrata,Bloomington,IN,Officer Complaints
+https://data.bloomington.in.gov/dataset/use-of-force-data,Different links from years,Socrata,Bloomington,IN,Use of Force
+https://data.lacity.org/Public-Safety/Vehicle-and-Pedestrian-Stop-Data-2010-to-Present/ci25-wgt7,https://data.lacity.org/resource/ci25-wgt7.csv,Socrata,Los Angeles,CA,Stop and Frisk
+https://data.lacity.org/Public-Safety/Vehicle-and-Pedestrian-Stop-Data-2010-to-Present/ci25-wgt7,https://data.lacity.org/resource/ci25-wgt7.csv,Socrata,Los Angeles,CA,Traffic stops
+https://data-lansing.opendata.arcgis.com/datasets/32b48df10c674a7aace77071046ba272_0,https://opendata.arcgis.com/datasets/32b48df10c674a7aace77071046ba272_0.csv,Socrata,Lansing,MI,Traffic stops
+https://data-lansing.opendata.arcgis.com/datasets/a868967f0f1b427db8575e391ce5f74c_0?geometry=-85.067%2C42.584%2C-84.024%2C42.761,https://opendata.arcgis.com/datasets/a868967f0f1b427db8575e391ce5f74c_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D,Socrata,Lansing,MI,Use of Force
+https://data-lansing.opendata.arcgis.com/datasets/e7eb75c5e9d9490b809d08e4849b31d1_0,https://opendata.arcgis.com/datasets/e7eb75c5e9d9490b809d08e4849b31d1_0.csv,Socrata,Lansing,MI,Officer Complaints
+https://opendata.dc.gov/datasets/stop-incidents,https://opendata.arcgis.com/datasets/cc1b18f4c6954ae891d2e262b991b06a_41.csv,Socrata,Washington,DC,Stop and Frisk
+https://opendata.dc.gov/datasets/stop-incidents,https://opendata.arcgis.com/datasets/cc1b18f4c6954ae891d2e262b991b06a_41.csv,Socrata,Washington,DC,Traffic stops
+https://data.albanyny.gov/Public-Safety/APD-Citizen-Complaints/s2gk-irhz,https://data.albanyny.gov/Public-Safety/APD-Citizen-Complaints/s2gk-irhz,Socrata,Albany,NY,Officer Complaints
+https://data.albanyny.gov/Public-Safety/APD-Officer-Use-Of-Force-Incidents/hiwd-25w2,https://data.albanyny.gov/resource/hiwd-25w2.csv,Socrata,Albany,NY,Use of Force
+https://data-southbend.opendata.arcgis.com/datasets/police-use-of-force-incidents?geometry=-86.752%2C41.584%2C-85.709%2C41.764,https://opendata.arcgis.com/datasets/3bc26b9f05a345ec906f1cc0c09060fc_2.csv,Socrata,South Bend,IN,Use of Force
+https://data-southbend.opendata.arcgis.com/datasets/community-complaints-reported-to-sbpd,https://opendata.arcgis.com/datasets/a4097198825e493a839ff83e8cbd56c3_1.csv,Socrata,South Bend,IN,Officer Complaints
+https://data.ct.gov/Public-Safety/Traffic-Stops-Racial-Profiling-Prohibition-Project/nahi-zqrt,https://data.ct.gov/resource/nahi-zqrt.csv,Socrata,Hartford,CT,Traffic stops
+https://data.memphistn.gov/Public-Safety/Police-Headcount/iwk8-fxnz,https://data.memphistn.gov/resource/iwk8-fxnz.csv,Socrata,Memphis,TN,Force Demographics
+https://data.seattle.gov/Public-Safety/Use-Of-Force/ppi5-g2bj,https://data.seattle.gov/resource/ppi5-g2bj.csv,Socrata,Seattle,WA,Use of Force
+https://data.seattle.gov/Public-Safety/Office-of-Police-Accountability-Complaints/99yi-dthu,https://data.seattle.gov/resource/99yi-dthu.csv,Socrata,Seattle,WA,Officer Complaints
+https://data.seattle.gov/Public-Safety/Terry-Stops/28ny-9ts8,https://data.seattle.gov/resource/28ny-9ts8.csv,Socrata,Seattle,WA,Stop and Frisk
+https://information.stpaul.gov/Public-Safety/Traffic-Stop-Dataset/kkd6-vvns,https://information.stpaul.gov/resource/kkd6-vvns.csv,Socrata,Saint Paul,MN,Traffic stops
+https://data4-faync.opendata.arcgis.com/search?tags=Traffic%20Stops,https://opendata.arcgis.com/api/v3/datasets/fd382c6e7a854f7da962ab66af9d0770_0/downloads/data?format=csv&spatialRefId=4326,ArcGIS,Fayetteville,NC,Traffic stops
+https://opendata.minneapolismn.gov/datasets/cityoflakes::police-use-of-force/about,,ArcGIS,Minneapolis,MN,Use of Force
+https://opendata.minneapolismn.gov/datasets/cityoflakes::police-officer-involved-shootings/about,,ArcGIS,Minneapolis,MN,Use of Force
+https://gisdata.tucsonaz.gov/datasets/2b0260ab5a0f43f8a0caa90592564f62_36/explore,https://opendata.arcgis.com/api/v3/datasets/2b0260ab5a0f43f8a0caa90592564f62_36/downloads/data?format=csv&spatialRefId=2868,ArcGIS,Tucson,AZ,Use of Force
+https://gisdata.tucsonaz.gov/datasets/abb29a901bfd4d63a8148e0b34d99c48_34/explore,https://opendata.arcgis.com/api/v3/datasets/abb29a901bfd4d63a8148e0b34d99c48_34/downloads/data?format=csv&spatialRefId=2868,ArcGIS,Tucson,AZ,Use of Force
+https://policedata.coloradosprings.gov/Use-of-Force/Use-of-Force-Reports/ii9t-cvd6,https://policedata.coloradosprings.gov/resource/ii9t-cvd6.csv,Socrata,Colorado Springs,CO,Use of Force
+https://policedata.coloradosprings.gov/Employees/Demographics-of-Sworn-Officers/stu9-jwhy,https://policedata.coloradosprings.gov/Employees/Demographics-of-Sworn-Officers/stu9-jwhy,Socrata,Colorado Springs,CO,Force Demographics
+https://data.cityoforlando.net/Orlando-Police/OPD-Officer-Involved-Shootings/6kz6-6c7n,https://data.cityoforlando.net/resource/6kz6-6c7n.csv,Socrata,Orlando,FL,Use of Force
+https://chn-az.municipal.systems/sources/ee3cc4be-828d-4975-87f4-5a02c2ed3d85,https://chn-az.municipal.systems/api,Socrata,Chandler,AZ,Use of Force
+https://data-rpdny.opendata.arcgis.com/datasets/b57f1fc96d044f00ae9df541b2c2b4ea_0/explore,https://opendata.arcgis.com/api/v3/datasets/b57f1fc96d044f00ae9df541b2c2b4ea_0/downloads/data?format=csv&spatialRefId=4326,Socrata,Rochester,NY,Force Demographics
+https://data.cityofnewyork.us/Public-Safety/The-Stop-Question-and-Frisk-Data/ftxv-d5ix,https://www1.nyc.gov/site/nypd/stats/reports-analysis/stopfrisk.page,Socrata,New York,NY,Stop and Frisk
+https://data.cityofnewyork.us/Public-Safety/NYPD-Use-of-Force-Incidents/f4tj-796d,https://data.cityofnewyork.us/Public-Safety/NYPD-Use-of-Force-Incidents/f4tj-796d,Socrata,New York,NY,Use of Force
+https://data.cityofnewyork.us/Public-Safety/Civilian-Complaint-Review-Board-CCRB-Complaints-Re/63nx-cpi9,https://data.cityofnewyork.us/resource/63nx-cpi9.csv,Socrata,New York,NY,Officer Complaints
+https://data.cityofnewyork.us/Public-Safety/NYPD-Personnel-Demographics/5vr7-5fki,https://data.cityofnewyork.us/resource/5vr7-5fki.csv,Socrata,New York,NY,Force Demographics
